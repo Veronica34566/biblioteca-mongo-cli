@@ -93,7 +93,6 @@ Menú principal
 ├── README.md
 ├── requirements.txt
 ├── .env.example
-├── ejemplos
     └── libro_ejemplo.json
 
 📘 Ejemplo de documento en MongoDB
