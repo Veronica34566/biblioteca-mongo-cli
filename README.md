@@ -93,8 +93,7 @@ Menú principal
 ├── README.md
 ├── requirements.txt
 ├── .env.example
-├── .gitignore
-└── ejemplos
+├── ejemplos
     └── libro_ejemplo.json
 
 📘 Ejemplo de documento en MongoDB
@@ -117,17 +116,6 @@ Coincidencias parciales (regex, insensible a mayúsculas/minúsculas).
 
 Mensaje amigable si no hay resultados.
 
-🛡️ Validaciones y manejo de errores
-
-Verificación de conexión a MongoDB (ping).
-
-Validación de estructura del documento (titulo, autor, genero, estado).
-
-Estados válidos: pendiente, leyendo, terminado.
-
-Validación de IDs (ObjectId).
-
-📄 .gitignore recomendado
 
 .venv/
 .env
